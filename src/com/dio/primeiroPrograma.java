@@ -7,7 +7,7 @@ public class primeiroPrograma {
 	public static void main(String[] args) {
 		
 		Gato gato = new Gato();
-		Livros livros = new Livros();
+
 		
 		System.out.println(gato);
 		
@@ -17,9 +17,4 @@ public class primeiroPrograma {
 
 	}
 
-}
-
-class Livros {
-	private String nome;
-	private String npag;
 }
